@@ -65,4 +65,9 @@ conda env remove -n <name>
 
 ## `git`
 
-- Another important part of the 
+- Another important part of the python setup is `git`, this is an open source software used for version control for text base files
+- More information on `git` can be found on https://git-scm.com/about
+- Version control is important when collaborating and also for "saving" different parts of the development cycle so we can go back to the right place
+- `git` is also the underlying software used within GitHub, GitLab, BitBucket
+- With `git` we can download any `git` repository onto our computer with a single line of code
+- We can install `git` from https://git-scm.com/downloads and recommend using default settings along the way
