@@ -19,6 +19,5 @@
 
 ### Installation
 
-- We can use the following powershell script to install Miniconda, some minor changes will also allow the user to install Anaconda if that is preffered:
-
-<script src="https://gist.github.com/joy-rosie/dabf8a5511d5e6bd334a605fb5bd2c5c.js"></script>
+- We can use the following powershell script to install Miniconda, some minor changes will also allow the user to install Anaconda if that is preffered
+- Please find the script at https://gist.github.com/joy-rosie/dabf8a5511d5e6bd334a605fb5bd2c5c
